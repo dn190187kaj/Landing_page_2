@@ -1,0 +1,19 @@
+.jumbotron {
+	background:#B34EE9;
+}
+.container-fluid {
+	padding: 50px 60px;
+}
+.logo {
+	font-size: 200px;
+}
+#field {
+	width: 250px;
+}
+.bg-grey {
+	background: grey;
+}
+@media screen and (max-width: 768px) {
+    .col-md-4 {
+        text-align: center;
+        margin: 25px 0;
